@@ -15,7 +15,7 @@ After running the program, the game will start automatically. Use the '[a] + ent
 # Modules #
 The program is implemented using object-oriented programming principles and interfaces. Here are the modules used in the program:
 
-# Interfaces #
+# Interfaces
 GameController.java: an interface that defines method that controls the game and its input.
 GameLogic.java: an interface that that defines game logic methods.
 Graphic.java: an interface that defines the methods for displaying the game.
@@ -23,7 +23,7 @@ Board.java: an interface that defines the methods for the game board.
 Character.java: an interface that defines the methods for the game character.
 Food.Java: an interface that defines the methods for the behaviour of food in the game.
 
-# Classes #
+# Classes
 ConsoleGame.java implements the GameController interface to run the game in console
 SnakeGame.java implements the GameLogic interface for the Snake Game
 ConsoleGraphic.java implements the Graphic interface, allows the game to display itself on console.
