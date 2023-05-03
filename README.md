@@ -42,6 +42,9 @@ Main.java the main entry point of the program.
 ### Flow Chart
 ![Alt Text](https://github.com/LinWeintraub/SnakeGame/blob/main/SnakeGame-Flowchart.jpeg)
 
+### UML
+![Alt Text](https://github.com/LinWeintraub/SnakeGame/blob/main/SnakeGame-UML.jpeg)
+
 
 This Snake Game program is a fun way to spend your free time and exercise your brain. With its simple gameplay and classic design, it is sure to be a hit with gamers of all ages. 
 Enjoy playing!
