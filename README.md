@@ -24,12 +24,12 @@ Character.java: an interface that defines the methods for the game character.
 Food.Java: an interface that defines the methods for the behaviour of food in the game.
 
 ### Classes
-ConsoleGame.java implements the GameController interface to run the game in console
-SnakeGame.java implements the GameLogic interface for the Snake Game
+ConsoleGame.java implements the GameController interface to run the game in console.
+SnakeGame.java implements the GameLogic interface for the Snake Game.
 ConsoleGraphic.java implements the Graphic interface, allows the game to display itself on console.
-PlayBoard.java implements the Board interface for the Snake Game
-Snake.java implements the Character interface, an implementation of the main character in the Snake Game
-Apple.java implements the Food interface, the target for the character to increase its score
+PlayBoard.java implements the Board interface for the Snake Game.
+Snake.java implements the Character interface, an implementation of the main character in the Snake Game.
+Apple.java implements the Food interface, the target for the character to increase its score.
 Main.java the main entry point of the program.
 
 
