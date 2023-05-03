@@ -1,9 +1,6 @@
 # Snake Game
 
-![Alt Text]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/LinWeintraub/SnakeGame/blob/main/snake.gif)
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+![Alt Text](https://github.com/LinWeintraub/SnakeGame/blob/main/snake.gif)
 
 
 ## Introduction
