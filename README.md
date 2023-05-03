@@ -1,6 +1,6 @@
 # Snake Game
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/LinWeintraub/SnakeGame/blob/main/snake.gif))
+![Alt Text]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/LinWeintraub/SnakeGame/blob/main/snake.gif)
 
 
 ## Introduction
