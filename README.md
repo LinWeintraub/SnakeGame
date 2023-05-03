@@ -39,14 +39,12 @@ Snake.java implements the Character interface, an implementation of the main cha
 Apple.java implements the Food interface, the target for the character to increase its score.
 Main.java the main entry point of the program.
 
-### Flow Chart
+## Flow Chart
 ![Alt Text](https://github.com/LinWeintraub/SnakeGame/blob/main/SnakeGame-Flowchart.jpeg)
 
-### UML
+## UML
 ![Alt Text](https://github.com/LinWeintraub/SnakeGame/blob/main/SnakeGame-UML.jpeg)
 
 
 This Snake Game program is a fun way to spend your free time and exercise your brain. With its simple gameplay and classic design, it is sure to be a hit with gamers of all ages. 
 Enjoy playing!
-
-
