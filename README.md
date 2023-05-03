@@ -1,5 +1,8 @@
 # Snake Game
 
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/LinWeintraub/SnakeGame/blob/main/snake.gif))
+
+
 ## Introduction
 Snake Game is a classic arcade game where the player controls a snake to eat food and grow in length. The goal of the game is to get the highest score possible without colliding with the snake's own body or the walls of the game board. This program is an implementation of the Snake Game using Java programming language.
 This program uses several object-oriented programming concepts such as Interfaces, Polymorphism, Encapsulation, Single responsibility principle and Open–closed principle.
