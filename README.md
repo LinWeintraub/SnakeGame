@@ -17,7 +17,7 @@ Navigate to the SnakeGame Folder and execute: ```javac -d . src/*.java``` This w
 To run the game: ```java -cp . Main```
 
 ## How to Play
-After running the program, the game will start automatically. Use the '[a] + enter'/'[d] + enter' keys on the keyboard to change the direction of the snake's movement. The snake will move continuously until it collides with its own body or the walls of the game board. The game will end when the snake collides with something or the player chooses to quit the game ('[q] + enter'). The player's score will be displayed at the end of the game.
+After running the program, the game will start automatically. Use the ```[a] + enter```/```[d] + enter``` keys on the keyboard to change the direction of the snake's movement. The snake will move continuously until it collides with its own body or the walls of the game board. The game will end when the snake collides with something or the player chooses to quit the game (```[q] + enter```). The player's score will be displayed at the end of the game.
 
 ## Modules
 The program is implemented using object-oriented programming principles and interfaces. Here are the modules used in the program:
