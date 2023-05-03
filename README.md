@@ -8,6 +8,7 @@ Snake Game is a classic arcade game where the player controls a snake to eat foo
 This program uses several object-oriented programming concepts such as Interfaces, Polymorphism, Encapsulation, Single responsibility principle and Open–closed principle.
 
 ## Requirements
+
 Java Development Kit (JDK)
 Windows 10 or Higher
 
