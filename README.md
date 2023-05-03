@@ -7,8 +7,11 @@
 Snake Game is a classic arcade game where the player controls a snake to eat food and grow in length. The goal of the game is to get the highest score possible without colliding with the snake's own body or the walls of the game board. This program is an implementation of the Snake Game using Java programming language.
 This program uses several object-oriented programming concepts such as Interfaces, Polymorphism, Encapsulation, Single responsibility principle and Open–closed principle.
 
+## Requirements
+Java Development Kit (JDK)
+Windows 10 or Higher
+
 ## Compilation and Running
-To compile and run the program, you will need to have Java Development Kit (JDK) installed on your computer.
 Navigate to the SnakeGame Folder and execute: ```javac -d . src/*.java``` This will compile SnakeGame.
 To run the game: ```java -cp . Main```
 
@@ -38,3 +41,6 @@ Main.java the main entry point of the program.
 
 This Snake Game program is a fun way to spend your free time and exercise your brain. With its simple gameplay and classic design, it is sure to be a hit with gamers of all ages. 
 Enjoy playing!
+
+![Alt Text](https://github.com/LinWeintraub/SnakeGame/blob/main/SnakeGame-Flowchart.jpeg)
+
