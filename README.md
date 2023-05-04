@@ -8,9 +8,9 @@ Snake Game is a classic arcade game where the player controls a snake to eat foo
 This program uses several object-oriented programming concepts such as Interfaces, Polymorphism, Encapsulation, Single responsibility principle and Open–closed principle.
 
 ## Requirements
-
 Java Development Kit (JDK)
 Windows 10 or Higher
+This ASCII-style game utilizes color codes supported by the Windows command line console.
 
 ## Compilation and Running
 Navigate to the SnakeGame Folder and execute: ```javac -d . src/*.java``` This will compile SnakeGame.
@@ -27,7 +27,7 @@ GameController.java: an interface that defines method that controls the game and
 GameLogic.java: an interface that that defines game logic methods.
 Graphic.java: an interface that defines the methods for displaying the game.
 Board.java: an interface that defines the methods for the game board.
-Character.java: an interface that defines the methods for the game character.
+Player.java: an interface that defines the methods for the game player.
 Food.Java: an interface that defines the methods for the behaviour of food in the game.
 
 ### Classes
