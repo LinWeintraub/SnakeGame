@@ -35,7 +35,7 @@ ConsoleGame.java implements the GameController interface to run the game in cons
 SnakeGame.java implements the GameLogic interface for the Snake Game.
 ConsoleGraphic.java implements the Graphic interface, allows the game to display itself on console.
 PlayBoard.java implements the Board interface for the Snake Game.
-Snake.java implements the Character interface, an implementation of the main character in the Snake Game.
+Snake.java implements the Player interface, an implementation of the main character in the Snake Game.
 Apple.java implements the Food interface, the target for the character to increase its score.
 Main.java the main entry point of the program.
 
